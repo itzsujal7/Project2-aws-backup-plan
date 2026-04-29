@@ -82,7 +82,7 @@ The AWS Backup plan was successfully configured to protect both EC2 and RDS reso
 ---
 
 ### 2. EC2 Instance Running
-![2. EC2 Instance 2](./EC2_Instance_2.png)
+![2. EC2 Instance running](./EC2_Instance_running.png)
 
 ---
 
