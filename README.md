@@ -71,3 +71,37 @@ AWS Backup Service
 ## Conclusion
 
 The AWS Backup plan was successfully configured to protect both EC2 and RDS resources. Recovery points were created in the backup vault, ensuring that data can be restored when needed. This project demonstrates how AWS Backup provides a simple, centralized, and automated approach to cloud resource protection.
+
+---
+
+## Screenshots
+
+### 1. EC2 Instance
+![1. EC2 Instance](./EC2_Instance.png)
+
+---
+
+### 2. EC2 Instance Running
+![2. EC2 Instance 2](./EC2_Instance_2.png)
+
+---
+
+### 3. RDS Database
+![3. RDS Database](./RDS_Database.png)
+
+---
+
+### 4. Backup Vault Created
+![4. Backup Vault Created](./Backup_Vault_Created.png)
+
+---
+
+### 5. Backup Plan Created
+![5. Backup Plan Created](./Backup_Plan_Created.png)
+
+---
+
+### 6. Backup Job Completed
+![6. Backup Job Completed](./Backup_Job_Completed.png)
+
+---
